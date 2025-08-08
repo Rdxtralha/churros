@@ -1,0 +1,6 @@
+{
+  "name": "churros",
+  "dependencies": {
+    "@altcha/server": "^1.0.0"
+  }
+}
